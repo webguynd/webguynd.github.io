@@ -45,3 +45,20 @@ a:hover {
     color: red;
     text-decoration: line-through;
 }
+
+.light-bg {
+    background-color: #FFFFFF;
+}
+
+.image-border {
+    border: 1px solid #DFDFDF;
+  
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+.block-quote {
+    background: #DFDFDF;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
