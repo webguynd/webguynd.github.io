@@ -1,1 +1,1 @@
-# Static files for my copywriting services website
+# Static files for my technical writing  website/portfolio
