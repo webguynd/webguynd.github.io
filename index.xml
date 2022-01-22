@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tales from the shell</title>
+    <link>https://blog.nickdamore.com/</link>
+    <description>Recent content on Tales from the shell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2022 Nick D&#39;Amore</copyright>
+    <lastBuildDate>Fri, 21 Jan 2022 19:56:21 -0800</lastBuildDate><atom:link href="https://blog.nickdamore.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://blog.nickdamore.com/post/first-post/</link>
+      <pubDate>Fri, 21 Jan 2022 19:56:21 -0800</pubDate>
+      
+      <guid>https://blog.nickdamore.com/post/first-post/</guid>
+      <description>&lt;p&gt;Welcome to tales from the shell.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://blog.nickdamore.com/about/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.nickdamore.com/about/</guid>
+      <description>Who are you? My name is Nick, though many online also know me as &amp;ldquo;thewebguy&amp;rdquo; I&amp;rsquo;m a technologist, current sysadmin (totally not a bofh I promise), free and open source software advocate, and lover of the outdoors.
+Tales from the shell is my personal blog where I share interesting tell stories from the IT field, share security blunders and tips, lessons, and and discuss current events.
+When I&amp;rsquo;m not wrangling servers I like to spend a lot of time outdoors and probably spend as much time, if not more, in the woods than I do in front of a terminal.</description>
+    </item>
+    
+  </channel>
+</rss>
